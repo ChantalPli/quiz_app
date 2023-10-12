@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "question": "What are the names of the seven continents of the world?",
+    "answers": [
+     "Asia, Africa, North America, South America, Antarctica, Europe, Australia",
+      "Asia, Africa, Americas, Antarctica, Europe, Australia,Oceania",
+      "Asia, Africa, Russia,Americas, Antarctica, Europe, Australia",
+      "Asia, Africa, North America, South America, Europe,Oceania"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "What is the name of the longest river in Africa?",
+    "answers": [
+      "Nile",
+      "Uele",
+      "Congo River",
+      "Niger"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "In which country would you find the city of Dresden?",
+    "answers": [
+      "Austria",
+      "Germany",
+      "Slovakia",
+      "Polonia"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "How many time zones does Australia have?",
+    "answers": [
+     "2",
+     "4",
+     "3",
+     "5"
+    ],
+    "correctAnswer":2
+  },
+  {
+    "id": 5,
+    "question": "How many states does the Mississippi River run through?",
+    "answers": [
+      "31",
+      "20",
+      "25",
+      "30"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "How tall is Mount Everest?",
+    "answers": [
+     "6,849m",
+     "7,849m",
+      "8,849m",
+      "9,849m"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "question": "What is the southernmost capital city in the world?",
+    "answers": [
+      "Canberra",
+     "Buenos Aires",
+     "Jakarta",
+     "Wellington"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 8,
+    "question": "What is the smallest country in the world?",
+    "answers": [
+      "Andorra",
+      "Vatican City",
+      "Luxembourg",
+     " Belgium"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "How many countries are there in the world?",
+    "answers": [
+      "105",
+      "145",
+      "195",
+      "245"
+    ],
+    "correctAnswer": 2
+  }
+  
+]
